@@ -1,0 +1,28 @@
+name: diz que disse
+favicon: null
+layout_spectrum: 0.30365659412927926
+typography_spectrum: 0.7810065478552133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.40472866082563996
+  lightness: 0.7416364992968738
+  saturation: 0.7885506087914109
+  rhythmicContrast: 0.26582771446555853
+purpose: []
