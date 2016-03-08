@@ -1,7 +1,7 @@
 name: diz que disse
 favicon: null
-layout_spectrum: 0.30365659412927926
-typography_spectrum: 0.7810065478552133
+layout_spectrum: 0.26933
+typography_spectrum: 0.29871
 title: diz que disse
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.40472866082563996
-  lightness: 0.7416364992968738
-  saturation: 0.7885506087914109
-  rhythmicContrast: 0.26582771446555853
+    - '#3d3d3b'
+    - '#130908'
+    - '#7e7863'
+    - '#56513f'
+    - '#9a9580'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
