@@ -4,8 +4,14 @@
         <description><![CDATA[diz que disse]]></description>
         <link>https://thegrid.ai/dizquedisse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 10:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 10:27:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dizquedisse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/dizquedisse/901b0a32-c3ae-48d9-8226-6f462b022350/index.html</link>
+            <guid isPermaLink="false">901b0a32-c3ae-48d9-8226-6f462b022350</guid>
+            <pubDate>Tue, 08 Mar 2016 10:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6261ffbe-5904-4be8-9217-7db25ac3dac3.jpg">]]></description>
@@ -67,13 +73,6 @@
             <link>https://thegrid.ai/dizquedisse/9b0ec124-8393-4c09-9f44-be3ae66d3b0b/index.html</link>
             <guid isPermaLink="false">9b0ec124-8393-4c09-9f44-be3ae66d3b0b</guid>
             <pubDate>Tue, 08 Mar 2016 10:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>— Hafiz</p>]]></description>
-            <link>https://thegrid.ai/dizquedisse/f5821b25-7e7a-4644-a097-c4c7187351f8/index.html</link>
-            <guid isPermaLink="false">f5821b25-7e7a-4644-a097-c4c7187351f8</guid>
-            <pubDate>Tue, 08 Mar 2016 10:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
