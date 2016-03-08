@@ -4,8 +4,15 @@
         <description><![CDATA[diz que disse]]></description>
         <link>https://thegrid.ai/dizquedisse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 10:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 10:27:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dizquedisse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6261ffbe-5904-4be8-9217-7db25ac3dac3.jpg">]]></description>
+            <link>https://thegrid.ai/dizquedisse/ca2da2d5-6b96-48ee-80b3-3a0b48b4508e/index.html</link>
+            <guid isPermaLink="false">ca2da2d5-6b96-48ee-80b3-3a0b48b4508e</guid>
+            <pubDate>Tue, 08 Mar 2016 10:26:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://thegrid.ai/dizquedisse/c8223e48-93c4-42fb-87bd-7a796989e363/index.html</link>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/dizquedisse/f5821b25-7e7a-4644-a097-c4c7187351f8/index.html</link>
             <guid isPermaLink="false">f5821b25-7e7a-4644-a097-c4c7187351f8</guid>
             <pubDate>Tue, 08 Mar 2016 10:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> — Seven Sisters of Pleiades</p>]]></description>
-            <link>https://thegrid.ai/dizquedisse/a22f3aab-faae-41ef-aa02-a88dd255cd94/index.html</link>
-            <guid isPermaLink="false">a22f3aab-faae-41ef-aa02-a88dd255cd94</guid>
-            <pubDate>Tue, 08 Mar 2016 09:52:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
