@@ -4,8 +4,14 @@
         <description><![CDATA[diz que disse]]></description>
         <link>https://thegrid.ai/dizquedisse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 10:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 10:23:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dizquedisse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/dizquedisse/c8223e48-93c4-42fb-87bd-7a796989e363/index.html</link>
+            <guid isPermaLink="false">c8223e48-93c4-42fb-87bd-7a796989e363</guid>
+            <pubDate>Tue, 08 Mar 2016 10:22:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f16819a-e9ba-4610-bc89-f20edcb19656.jpg">]]></description>
@@ -15,10 +21,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac374cad-4d03-4478-8608-10206dd14b9e.gif">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac374cad-4d03-4478-8608-10206dd14b9e.gif" alt="" title="">]]></description>
             <link>https://thegrid.ai/dizquedisse/090a3797-eca3-43b3-9f73-f1168aefb4e7/index.html</link>
             <guid isPermaLink="false">090a3797-eca3-43b3-9f73-f1168aefb4e7</guid>
-            <pubDate>Tue, 08 Mar 2016 10:19:24 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 10:21:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wise words from a Hobbit]]></title>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/dizquedisse/a22f3aab-faae-41ef-aa02-a88dd255cd94/index.html</link>
             <guid isPermaLink="false">a22f3aab-faae-41ef-aa02-a88dd255cd94</guid>
             <pubDate>Tue, 08 Mar 2016 09:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca430d35-e3f3-423e-941e-9089456890e7.png">]]></description>
-            <link>https://thegrid.ai/dizquedisse/739b75d6-0cf1-4a89-8da7-920e4f84fbcf/index.html</link>
-            <guid isPermaLink="false">739b75d6-0cf1-4a89-8da7-920e4f84fbcf</guid>
-            <pubDate>Tue, 08 Mar 2016 09:55:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
